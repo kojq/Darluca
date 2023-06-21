@@ -1,7 +1,7 @@
 <div align=center>
-  <img src=LOGO.svg height=120/>
+  <img src=LOGO.svg height=140/>
 
-  # darluca
+  # Darluca
 
   Code golf without the overhead.
 </div>
@@ -16,20 +16,21 @@ Disrespect is not tolerated. Feel free to [join the Discord server](https://disc
 
 ## Features
 
-- Not just a DSL
-  - Quick development
-  - Small footprint
+- Intuitive and terse
+- Designed as both a general-purpose and domain-specific language
+  - Explicit
+  - Rapid protyping
   - Easy to read
   - Efficient
-  
-## Build
-
-There are no build instructions.
 
 ## Activity
+
+An issue can be rasied to archive the repository after 40 days of inactivity.
 
 - [x] Development (mostly commits)
 - [ ] Maintenance (mostly issues and requests)
 - [ ] Archived (no updates such as for security)
 
-An issue can be rasied to archive the repository after 40 days of inactivity.
+## Build
+
+There are no build instructions.
