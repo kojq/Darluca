@@ -12,7 +12,7 @@ Disrespect is not tolerated. Feel free to [join the Discord server](https://disc
 
 ## Usage
 
-- TBD
+TBD
 
 ## Features
 
