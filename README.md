@@ -16,12 +16,7 @@ TBD
 
 ## Features
 
-- Intuitive and terse
-- Designed as both a general-purpose and domain-specific language
-  - Explicit
-  - Rapid protyping
-  - Easy to read
-  - Efficient
+- Efficiently rwx
 
 ## Activity
 
