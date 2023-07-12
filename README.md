@@ -18,12 +18,6 @@ TBD
 
 - Efficiently rwx
 
-## Activity
-
-- [x] Development (mostly commits)
-- [ ] Maintenance (mostly issues and requests)
-- [ ] Archived (no updates such as for security)
-
 ## Build
 
 There are no build instructions.
