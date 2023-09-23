@@ -1,5 +1,4 @@
 <div align=center>
-  <img src=LOGO.svg height=140/>
 
   # Darluca
 
@@ -16,7 +15,7 @@ TBD
 
 ## Features
 
-- Efficiently rwx
+- Minimize rwx overhead
 
 ## Build
 
