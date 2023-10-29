@@ -2,7 +2,7 @@
 
   # Darluca
 
-  Code golf without the overhead.
+  Code without the overhead.
 </div>
 
 ## Community
